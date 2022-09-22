@@ -31,3 +31,11 @@ EP repo: https://github.com/alexandregr26/ECE444-F2022-EP
 
 ![Screenshot](ScreenshotActivity7Rebase.png)
 ![Screenshot](ScreenshotActivity7Title.png)
+
+**Activity 8**
+
+![Screenshot](ScreenshotActivity8Rebase.png)
+![Screenshot](ScreenshotActivity8Tab.png)
+
+**Activity 9**
+Done
