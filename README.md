@@ -8,3 +8,8 @@ Activity 2
 
 Activity 3
 ![Screenshot](ScreenshotActivity3.png)
+
+Activity 4
+Teammate's repo: https://github.com/Mo-1226/ECE444-F2022-Lab1
+![Screenshot](ScreenshotActivity4Alex.png)
+![Screenshot](ScreenshotActivity4Mo.png)
