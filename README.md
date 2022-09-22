@@ -26,3 +26,8 @@ Teammate's repo: https://github.com/Mo-1226/ECE444-F2022-Lab1
 **Activity 6**
 
 EP repo: https://github.com/alexandregr26/ECE444-F2022-EP
+
+**Activity 7**
+
+![Screenshot](ScreenshotActivity7Rebase.png)
+![Screenshot](ScreenshotActivity7Title.png)
